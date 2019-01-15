@@ -17,7 +17,7 @@ This seems like an attractive project.
 
 * It could have practical medical application. 
 
-    * It has long been known that persons with Parkinson disease can develop microscopic handwriting ("micrographia").  Having an early screen for that disease (and other causes of parkinsonism) would be important if disease-modifying therapies become available (https://www.ncbi.nlm.nih.gov/pubmed/29644751). 
+    * It has long been known that persons with Parkinson disease can develop microscopic handwriting ("micrographia") (http://www.zebracards.com/GE-004.html).  Having an early screen for that disease (and other causes of parkinsonism) would be important if disease-modifying therapies become available (https://www.ncbi.nlm.nih.gov/pubmed/29644751). 
     * It might be used to follow the course and treatment of persons with some types of tremor.
     * Handwriting is a highly neuro-integrative task, hence it could perhaps be used an indicator of general neurological health... or even fatigue.
 
